@@ -1,0 +1,13 @@
+streamlit
+spacy
+torch
+transformers
+python-docx
+pyPDF2
+faiss-cpu
+nltk
+langchain
+sentence-transformers
+langchain-community
+
+
