@@ -1,4 +1,0 @@
-import spacy
-
-# Load spaCy model from the models folder
-nlp = spacy.load("models/spacy/en_core_web_md")

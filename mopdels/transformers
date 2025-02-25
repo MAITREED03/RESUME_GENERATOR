@@ -1,4 +1,0 @@
-from transformers import pipeline
-
-# Load GPT-2 model from the models folder
-generator = pipeline("text-generation", model="models/transformers/gpt2")
